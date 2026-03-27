@@ -1,70 +1,99 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🏫 School Management System
 
-## Available Scripts
+A full-stack School Management System built using modern web and mobile technologies.
+This project provides an Admin Dashboard, Student/Teacher Management, Notices, and AI-powered features with both Web and Mobile UI.
 
-In the project directory, you can run:
+⸻
 
-### `npm start`
+🚀 Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🎨 Frontend (Web)
+	•	HTML
+	•	CSS
+	•	JavaScript
+	•	React.js
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+⚙️ Backend
+	•	Node.js
+	•	Express.js
 
-### `npm test`
+🗄️ Database
+	•	MongoDB
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+📱 Mobile UI
+	•	React Native
+	•	Android Studio
 
-### `npm run build`
+⸻
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🛠 Development Tools
+	•	VS Code – Main development IDE
+	•	Android Studio – Mobile app development and testing
+	•	Git & GitHub – Version control
+	•	MongoDB Compass – Database management
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+⸻
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+✨ Features
 
-### `npm run eject`
+📊 Admin Dashboard
+	•	View school statistics
+	•	Manage students, teachers, classes, and subjects
+	•	Fees collection overview
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+👨‍🎓 Student Management
+	•	Add / Edit / Delete students
+	•	Manage student records
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+👩‍🏫 Teacher Management
+	•	Add and manage teachers
+	•	Assign subjects and classes
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+📢 Notice Board
+	•	Publish school notices
+	•	Students and teachers can view updates
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+📱 Mobile Application
+	•	Built with React Native
+	•	Works on Android devices
+	•	Provides mobile access to the system
 
-## Learn More
+⸻
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+🤖 AI Features
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This system includes AI-powered tools:
 
-### Code Splitting
+🧠 AI Attendance Bot
+	•	Automatically manages attendance
+	•	Helps reduce manual work
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+📢 AI Notice Board
+	•	AI-assisted notice generation and management
 
-### Analyzing the Bundle Size
+📈 AI Prediction Tool
+	•	Predicts academic insights or trends using data
+	•	Helps administrators make better decisions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+⸻
 
-### Making a Progressive Web App
+📂 Project Structure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+📸 Screens
+	•	Admin Dashboard
+	•	Student Management
+	•	Teacher Management
+	•	Notice Board
+	•	Mobile App UI
 
-### Advanced Configuration
+(Add screenshots here later)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+⸻
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🔮 Future Improvements
+	•	Parent portal
+	•	Online fee payment
+	•	AI chatbot for student queries
+	•	Real-time notifications
+	•	Cloud deployment
